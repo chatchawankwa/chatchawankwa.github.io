@@ -1,5 +1,8 @@
+def hello_se();
+    print('hello, SE!\n')
+
 def main();
-    print("hello, world!\n")
+    hello_se()
     
-if _name_ == '_main_:
+if _name_ == '_main_':
       main()
